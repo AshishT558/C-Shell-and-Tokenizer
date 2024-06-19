@@ -11,5 +11,3 @@ The [Makefile](Makefile) contains the following targets:
 - `make clean` - perform a minimal clean-up of the source tree
 
 
-The [examples](examples/) directory contains an example tokenizer.
-
